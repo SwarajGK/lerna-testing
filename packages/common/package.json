@@ -10,6 +10,7 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "private": true,
   "files": [
     "lib"
   ],
@@ -26,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/SwarajGK/lerna-testing/issues"
   },
-  "homepage": "https://github.com/SwarajGK/lerna-testing#readme"
+  "homepage": "https://github.com/SwarajGK/lerna-testing#readme",
+  "gitHead": "b37466a9b72f8394429adf579fca9c03686ebff6"
 }
