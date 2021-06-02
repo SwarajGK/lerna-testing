@@ -1,0 +1,7 @@
+{
+  "name": "lerna-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Swaraj Gandhi <swaraj@browserstack.com>",
+  "license": "MIT"
+}
